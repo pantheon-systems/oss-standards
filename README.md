@@ -27,7 +27,7 @@ We hope this will:
 **project leaders**
 
 - project lead (accountable)
-- maintainers (accountable)
+- maintainers (responsible)
 - alumni (would be nice to give credit)
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 
