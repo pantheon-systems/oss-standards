@@ -1,6 +1,7 @@
 # Pantheon Open Source Repo Standards (WIP)
 
-These standards are being created as an effort to have more transparency around the open source repos that we maintain and their development status. This idea originated on DevRel as we looked at all the repos we maintain (some of which are out of date) and the team's push forward on using the RACI matrix for projects. 
+[![Deprecated](https://img.shields.io/badge/Pantheon-Deprecated-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#deprecated)
+
 
 We hope this will: 
 
